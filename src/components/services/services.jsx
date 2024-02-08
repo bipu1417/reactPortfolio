@@ -15,19 +15,19 @@ const services = () => {
           <ul className="service__list">
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Very good hands on experience with React JS</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>I have used Tailwind CSS in all my project for better UX</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Have experience of using Redux Toolkit</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Experience of Debouncing and other optimization</p>
             </li>
           </ul>
         </article>
@@ -39,43 +39,43 @@ const services = () => {
           <ul className="service__list">
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Developed many web Application using React JS</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Have experience of backend as well in Spring Boot</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Experienced end-to-end development</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>With Latest technologies and trends</p>
             </li>
           </ul>
         </article>
         {/* End Of Web Development */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>CI/CD & Automation</h3>
           </div>
           <ul className="service__list">
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Have very good experience of JENKINS</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Have used Weblogis and Docker as well</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>Have pretty good experience of web automation in Selenium</p>
             </li>
             <li>
               <BsCheck2 className='service__list-icon'/>
-              <p>Lorem Ipsum dolor sit amet constructetur elit.</p>
+              <p>I have Good experience in using CI/CD tools</p>
             </li>
           </ul>
         </article>

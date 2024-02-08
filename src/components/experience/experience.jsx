@@ -15,21 +15,21 @@ const experience = () => {
             <article className='exoperience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>HTML</h4>
+              <h4>Redux Toolkit</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='exoperience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>React</h4>
+              <h4>React JS</h4>
               <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='exoperience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-              <h4>CSS</h4>
+              <h4>Tailwind CSS</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>

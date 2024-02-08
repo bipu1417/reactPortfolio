@@ -1,22 +1,18 @@
 {
-  "files": {
-    "main.css": "/static/css/main.ba54e18f.css",
-    "main.js": "/static/js/main.a091ba1d.js",
-    "static/media/me3.png": "/static/media/me3.871ab0e3b02cdbf7727d.png",
-    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/abc2.jpeg": "/static/media/abc2.2317d04e5438b73a0ba9.jpeg",
-    "static/media/cv1.pdf": "/static/media/cv1.87ddd1af21dc56e6e2a1.pdf",
-    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "index.html": "/index.html",
-    "main.ba54e18f.css.map": "/static/css/main.ba54e18f.css.map",
-    "main.a091ba1d.js.map": "/static/js/main.a091ba1d.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ba54e18f.css",
-    "static/js/main.a091ba1d.js"
-  ]
+  "main.css": "/static/css/main.9911a982.chunk.css",
+  "main.js": "/static/js/main.82304f55.chunk.js",
+  "main.js.map": "/static/js/main.82304f55.chunk.js.map",
+  "static/css/1.15b7a284.chunk.css": "/static/css/1.15b7a284.chunk.css",
+  "static/js/1.501f8d16.chunk.js": "/static/js/1.501f8d16.chunk.js",
+  "static/js/1.501f8d16.chunk.js.map": "/static/js/1.501f8d16.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/cv1.pdf": "/static/media/cv1.77c5042f.pdf",
+  "static/media/me3.png": "/static/media/me3.7ce63c55.png",
+  "static/media/abc2.jpeg": "/static/media/abc2.2ce445e6.jpeg",
+  "static/css/1.15b7a284.chunk.css.map": "/static/css/1.15b7a284.chunk.css.map",
+  "static/css/main.9911a982.chunk.css.map": "/static/css/main.9911a982.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.82a84dadea4c1e9e6a38eeb745413a94.js": "/precache-manifest.82a84dadea4c1e9e6a38eeb745413a94.js",
+  "service-worker.js": "/service-worker.js"
 }
